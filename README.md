@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somnath Pan</h1>
-<h3 align="center">I'm A 14y/o hobbyist programmer from india</h3>
+<h3 align="center">I'm A IIT JEE aspirant and a hobbyist programmer from india</h3>
 <img src="10ba6161c70f3edd67f34e229b62b852.gif" align="left" width="300px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codevsom&label=Profile%20views&color=0e75b6&style=flat" alt="codevsom" /> </p>
 
